@@ -1,5 +1,8 @@
-<div><img src="https://github.com/Dinomouse/Dinomouse/blob/main/Group%2013.jpg" alt="none"></img></div>
-<div><img src="https://github.com/Dinomouse/Dinomouse/blob/main/Group%2015%20(1).png" alt="none"></img></div>
+<div><img src="https://github.com/Dinomouse/Dinomouse/blob/main/Group%2021.png" alt="none"></img></div>
+
+
+
+
 
 <div>
 <span><img  src="https://github-readme-stats.vercel.app/api?username=Dinomouse&show_icons=true&locale=en&theme=github_dark" alt="arian" height="167px"  /></span><span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinomouse&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="arian"  height="167px" /></span></div>
