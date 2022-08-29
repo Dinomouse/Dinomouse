@@ -1,5 +1,5 @@
 <div><img src="https://github.com/Dinomouse/Dinomouse/blob/main/Group%2036.png" alt="none"></img></div>
-<div><img src="https://github.com/Dinomouse/Dinomouse/blob/main/Group%2037%20(2).png" alt="none"></img></div>
+
 <div><img src="https://github.com/Dinomouse/Dinomouse/blob/main/Group%2038.png" alt="none"></img></div>
 <div><img src="https://github.com/Dinomouse/Dinomouse/blob/main/Group%2039.png" alt="none"></img></div>
 
