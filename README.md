@@ -6,7 +6,7 @@
 
 
 <div>
-<span><img  src="https://github-readme-stats.vercel.app/api?username=Dinomouse&show_icons=true&locale=en&theme=github_dark" alt="arian" height="167px"  /></span><span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinomouse&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="arian"  height="167px" /></span></div>
+<span><img  src="https://github-readme-stats.vercel.app/api?username=Dinomouse&show_icons=true&locale=en&theme=vision-friendly-dark" alt="arian" height="167px"  /></span><span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinomouse&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="arian"  height="167px" /></span></div>
 
 <div align="center" <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" /> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
