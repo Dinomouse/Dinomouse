@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="html5" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="html5" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="html5" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="html5" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="html5" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="html5" width="60" height="60" />
 <img src="https://github.com/openjs-foundation/artwork/blob/master/projects/express/express-hex-sticker.png" alt="html5" width="60" height="60" />
@@ -22,6 +22,7 @@
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="html5" width="50" height="60" />
 <img src="https://komarev.com/ghpvc/?username=Dinomouse" alt="arian" height="35" width="175"   />
 </div>
+
 
 
 
